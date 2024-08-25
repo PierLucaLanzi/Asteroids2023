@@ -1,0 +1,20 @@
+//
+//	[artname]:
+//		file       = [filename]
+//		alphafile  = [alphafilename]
+//		layer      = [backdrop|overlay|bezel|marquee|panel|side|flyer]
+//		position   = [left],[top],[right],[bottom]
+//		priority   = [priority]
+//		visible    = [visible]
+//		alpha      = [alpha]
+//		brightness = [brightness]
+//
+
+// Thanks to Nathan Strum for the artwork!
+backdrop:
+	file		= astdelu1.png
+	layer		= backdrop
+	priority	= -2
+	visible		= 1
+	brightness	= 0.75
+	position	= -0.34,-0.27,1.386,1.242

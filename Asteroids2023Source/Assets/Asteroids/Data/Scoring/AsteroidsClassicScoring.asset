@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3d519ea234994f8d81cbcf8ac9f83b6, type: 3}
+  m_Name: AsteroidsClassicScoring
+  m_EditorClassIdentifier: 
+  largeAsteroidScore: 20
+  mediumAsteroidScore: 50
+  smallAsteroidScore: 100
+  largeSaucerScore: 200
+  smallSaucerScore: 1000
+  smallSaucerAppearsAfter: 40000
+  extraShipAfter: 10000

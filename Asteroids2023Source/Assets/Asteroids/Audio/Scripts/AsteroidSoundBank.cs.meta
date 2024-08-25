@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0830840e9666c47d39a9684ed6d68b68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireAudioClip: {instanceID: 0}
+  - thrustAudioClip: {instanceID: 0}
+  - explosionAudioClip: {instanceID: 0}
+  - extraShipAudioClip: {instanceID: 0}
+  - smallAsteroidExplosion: {instanceID: 0}
+  - mediumAsteroidExplosion: {instanceID: 0}
+  - largeAsteroidExplosion: {instanceID: 0}
+  - quietBeatAudioClip: {instanceID: 0}
+  - dramaticBeatAudioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,46 @@
+//	[artname]:
+//		file       = [filename]
+//		alphafile  = [alphafilename]
+//		layer      = [backdrop|overlay|bezel|marquee|panel|side|flyer]
+//		position   = [left],[top],[right],[bottom]
+//		priority   = [priority]
+//		visible    = [visible]
+//		alpha      = [alpha]
+//		brightness = [brightness]
+//
+//
+// Backdrop created by Nathan Strum at http://www.macmame.net/artcade/
+// Image used was a very high resolution scan of original Atari artwork.
+// 
+// Bezel created by Specfire.
+// Images used were primarily from eBay.
+// The bezel image was originally a screenshot from the Hasbro game "Atari's Greatest Hits".
+// You can see a list of the games with screenshots here: http://www.backntime.net/Atari%20Interactive/Arcade%20Hits%202/FrameAtari_Int.html
+// Myclone used that screenshot to create a bezel image.  I have used his bezel image as a template for this one.
+// Despite it's origins as a Hasbro screenshot, I have cut and pasted actual images from several photos into this image.
+// It is now really close to the actual bezel although a scan would be far more preferable.
+
+
+
+bezel:
+	file		= astdxbzl.png
+	layer		= bezel
+	alphafile	= astdxmsk.png
+	priority	= -2
+	visible		= 1
+	position	= -0.1083,-0.0460,1.1071,1.3448
+
+backdrop:
+	file		= astdelux.png
+	layer		= backdrop
+	priority	= 1
+	visible		= 1
+	brightness	= 0.6
+	position	= -0.0,-0.0,1.0,1.0
+
+
+
+
+
+
+
